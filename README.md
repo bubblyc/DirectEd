@@ -1,4 +1,4 @@
-# DirectEd donor side app
+# DirectEd app
 
 **What we do** 
 
